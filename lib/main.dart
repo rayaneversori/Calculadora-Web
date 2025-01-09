@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/calculadora.dart'; // Certifique-se de que este seja o caminho correto para o módulo.
+import 'package:myapp/calculadora.dart'; 
 
 void main() {
   runApp(const App());

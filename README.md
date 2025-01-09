@@ -6,12 +6,6 @@ Este projeto apresenta uma calculadora funcional e estilizada, desenvolvida com 
 - **Estilos**: Cores violeta e dourado, bordas arredondadas, sombras suaves e design responsivo
 - **Componentes Personalizados**: Botões estilizados e layout flexível com `GridView` para organização da interface
 
-## Atividade Proposta
-Este projeto faz parte de um estudo de interfaces com Flutter, focado em:
-- Trabalhar com **paletas de cores personalizadas** e **sombras estilizadas**.
-- Organizar layouts de forma clara e funcional utilizando widgets reutilizáveis.
-- Aprimorar a experiência do usuário com animações simples e design consistente.
-
 ## Estrutura do Código
 - **Calculadora**: Widget principal que gerencia a lógica de cálculo e exibe a interface do usuário.
 - **Botões Personalizados**: Widgets estilizados com cores dinâmicas e bordas arredondadas.
